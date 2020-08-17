@@ -61,3 +61,4 @@ ehthumbs.db
 fabric.properties
 
 .externalNativeBuild
+autocrlf = false
