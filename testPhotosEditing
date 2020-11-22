@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<allkeys>
+    <itemkeys>
+        <isneedclose>0</isneedclose>
+	    <ggType>1</ggType>
+        <name>0</name>
+        <name2>0</name2>
+    </itemkeys>
+    <itemkeys>
+         <isneedclose>1</isneedclose>
+	<ggType>3</ggType>
+        <name>2702286669990315_2702286919990290</name>
+    </itemkeys>
+    <itemkeys>
+         <isneedclose>0</isneedclose>
+	<ggType>18</ggType>
+        <name>1</name>
+    </itemkeys>
+</allkeys>
